@@ -1,0 +1,8 @@
+CLASS/SPEC MODEL FIX
+
+Previous:
+Every class had Succession + Awakening + Ascension.
+
+Now:
+Every class starts with Succession + Awakening only.
+Ascension is NOT automatically created for every class.
